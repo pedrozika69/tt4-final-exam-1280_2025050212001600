@@ -1,0 +1,5 @@
+/backend/bin/
+/backend/obj/
+/frontend/react-workouts/node_modules/
+.env
+*.db

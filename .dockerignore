@@ -1,0 +1,8 @@
+**/node_modules
+**/bin
+**/obj
+*.md
+Dockerfile
+.dockerignore
+.git
+.gitignore
